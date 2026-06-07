@@ -46,7 +46,7 @@ Here is exactly how it works under U.S. tax procedure:
 1. Make the corrections in Drake (instructions below).
 2. Drake will generate the corrected Form 1040 figures automatically.
 3. Open the **Form 1040-X** module in Drake and it will pull the original and corrected figures.
-4. Print the 1040-X for Eliana to sign.
+4. Print the 1040-X for my signature.
 5. The 1040-X must be **mailed** (paper filing) — it cannot be e-filed in this situation because the original was e-filed and a 1040-X during an active audit examination is typically mailed directly to the examining office, not the normal 1040-X service center, unless the examiner instructs otherwise.
 
 **Note:** Attach the Form 14900 to the 1040-X as a supporting document.
@@ -59,7 +59,7 @@ Here is exactly how it works under U.S. tax procedure:
 
 ### WHAT CHANGED AND WHY
 
-Two errors were identified in the original return:
+Upon review, two discrepancies were identified in the original return:
 
 | Error | Original | Corrected | Authority |
 |-------|----------|-----------|-----------|
@@ -275,7 +275,7 @@ Memphis TN 38130-0911
 *(Use Form 14817 Reply Cover Sheet on top)*
 
 - OR, include it as an exhibit in the audit response package with a note asking the examiner to process it.
-- In the cover letter, state: "We are enclosing a corrected Form 1040-X conceding the overstatement. Please advise if you will process this adjustment through the examination or if a separate submission is required."
+- In the cover letter, state: "I am enclosing a corrected Form 1040-X conceding the overstatement. Please advise whether you will process this adjustment through the examination or whether a separate submission is required."
 
 ---
 
@@ -327,11 +327,11 @@ Memphis TN 38130-0911
 
 1. **Radius Mortgage Note:** You need the note to confirm the loan term (30-year vs. 15-year vs. other). This affects the points amortization amount. The difference is small ($66 vs. $132 in 2024) but should be exact.
 
-2. **Points carryforward:** After correcting 2024, Drake will create a "points to be amortized in future years" carryforward. Remember to include this in Eliana's 2025, 2026... returns until the points are fully amortized.
+2. **Points carryforward:** After correcting 2024, Drake will create a "points to be amortized in future years" carryforward. Remember to include this in my 2025, 2026... returns until the points are fully amortized.
 
-3. **Eliana's signature:** Form 1040-X requires Eliana's signature before it can be submitted.
+3. **My signature:** Form 1040-X requires my signature before it can be submitted.
 
-4. **Payment:** If Eliana has not yet paid the original $14,379, she should pay at least that amount now to stop interest accumulation, and then pay the additional $3,799 when the 1040-X is filed.
+4. **Payment:** If I have not yet paid the original $14,379, I should pay at least that amount now to stop interest accumulation, and then pay the additional $3,799 when the 1040-X is filed.
 
 5. **Deadline:** The IRS Letter 566-T response is due **June 17, 2026** (30 days from May 18, 2026). Do not miss this deadline.
 

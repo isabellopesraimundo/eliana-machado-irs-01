@@ -39,7 +39,7 @@
 
 The IRS issued Letter 566-T requesting documentation to support the $114,034 mortgage interest deduction claimed on Schedule A. The IRS included Form 886-H-INT (Limited Home Mortgage Interest Deduction Supporting Documents) and the blank Form 14900 worksheet, signaling that the loan balance limitation under IRC §163(h)(3)(B) is at issue.
 
-The taxpayer, Ms. Eliana Machado de Almeida, purchased her primary residence at 4 Laura's Way, Edgartown, MA 02539, in October 2023 and refinanced the mortgage in November 2024. Both transactions are fully documented by institutional lenders. The deduction as filed reflects actual amounts paid to those lenders; the overstatement results entirely from technical preparer errors, as described below.
+The taxpayer, Ms. Eliana Machado de Almeida, purchased her primary residence at 4 Laura's Way, Edgartown, MA 02539, in October 2023 and refinanced the mortgage in November 2024. Both transactions are fully documented by institutional lenders. The deduction as filed reflects actual amounts paid to those lenders; the overstatement results from a misunderstanding of the post-TCJA mortgage interest deduction limit, as explained below.
 
 ---
 
@@ -65,19 +65,19 @@ The $114,034 on Schedule A, Line 8a is fully explained:
 | Radius points (Box 6) | **$18,900** | Form 1098 ✓ (confirmed) |
 | **Schedule A Line 8a** | **$114,034** | $95,134 + $18,900 = $114,034 ✓ |
 
-**The Radius interest of $1,869.86 was omitted from Schedule A.** The preparer included AmWest interest and Radius points but did not carry the Radius interest to Schedule A line 8a. This is a preparer data-entry omission that, notably, understates the deduction by $1,870 — an outcome entirely inconsistent with any intent to overclaim.
+**The Radius interest of $1,869.86 was omitted from Schedule A.** My return included AmWest interest and Radius points but did not carry the Radius interest to Schedule A line 8a. This omission, notably, understates my deduction by $1,870 — an outcome entirely inconsistent with any intent to overclaim.
 
 ---
 
-### Preparer Errors Identified
+### Discrepancies Identified
 
 | Error | Description | Effect on Deduction |
 |-------|-------------|---------------------|
-| **Error 1 (Primary)** | IRC §163(h)(3)(B) $750,000 loan limit not applied. Drake's mortgage interest limitation worksheet was left blank. Both mortgages are post-TCJA (originated after 12/15/2017). | Overstates deduction |
-| **Error 2 (Primary)** | Radius points of $18,900 fully deducted in the year of refinancing. As a refinance, IRC §461(g)(2) requires ratable amortization over the loan term. | Overstates deduction |
-| **Error 3 (Secondary)** | Radius interest of $1,869.86 (Form 1098, Box 1) inadvertently omitted from Schedule A. | Understates deduction |
+| **Item 1 (Primary)** | IRC §163(h)(3)(B) $750,000 loan limit not applied. The mortgage interest limitation worksheet was left blank. Both mortgages are post-TCJA (originated after 12/15/2017). | Overstates deduction |
+| **Item 2 (Primary)** | Radius points of $18,900 fully deducted in the year of refinancing. As a refinance, IRC §461(g)(2) requires ratable amortization over the loan term. | Overstates deduction |
+| **Item 3 (Secondary)** | Radius interest of $1,869.86 (Form 1098, Box 1) inadvertently omitted from Schedule A. | Understates deduction |
 
-All three errors are exclusively preparer errors. The taxpayer supplied accurate Forms 1098 from both institutional lenders, maintained all supporting records, and cooperated fully with this review. At no point did the taxpayer fabricate, inflate, or selectively report any figure.
+All figures were taken directly from Forms 1098 issued by two regulated institutional lenders. At no point was any figure fabricated, estimated, or inflated.
 
 ---
 
@@ -165,7 +165,7 @@ Note: The $18,032.38 unapplied amount was reversed on 12/03/24 (ADJ $7,940.56 + 
 | Radius (Loan #1068729) | $1,870 | $18,900 | $20,770 |
 | **TOTAL — Forms 1098** | **$97,004** | **$18,900** | **$115,904** |
 
-### Step 2: What the Preparer Entered on Schedule A
+### Step 2: What Was Reported on Schedule A
 
 | Schedule A Line | Description | Amount Claimed |
 |-----------------|-------------|----------------|
@@ -182,7 +182,7 @@ Note: The $18,032.38 unapplied amount was reversed on 12/03/24 (ADJ $7,940.56 + 
 | **Subtotal** | **$114,034** | ✓ Reconciled |
 | Radius interest (Box 1) | **$0** | ✗ OMITTED — $1,869.86 not carried to Sch A |
 
-**Conclusion:** The preparer combined AmWest interest ($95,134) and Radius points ($18,900) on Schedule A line 8a, inadvertently omitting the Radius interest of $1,869.86. This omission of $1,870 partially offsets the overstatement from the unapplied loan limit.
+**Conclusion:** My return combined AmWest interest ($95,134) and Radius points ($18,900) on Schedule A line 8a, inadvertently omitting the Radius interest of $1,869.86. This omission of $1,870 partially offsets the overstatement from the unapplied loan limit.
 
 ### Step 4: Errors Quantified
 
@@ -325,7 +325,7 @@ The Radius loan (originated 11/13/2024, $840,000) was used to pay off the AmWest
 
 | Treatment | 2024 Points Deducted |
 |-----------|----------------------|
-| Preparer (as filed) | $18,900 (full amount — incorrect for refinance) |
+| As filed | $18,900 (full amount — incorrect for refinance) |
 | Correct (amortized, ratio-adjusted) | $67 |
 | **Overstatement — points** | **$18,833** |
 
@@ -422,7 +422,7 @@ I reported every item of income and every deduction on my 2024 return in good fa
 
 Furthermore, and of significance to the good-faith question, a secondary data-entry error caused the Radius interest of $1,869.86 (Form 1098, Box 1) to be **omitted** from Schedule A — a circumstance that understated my deduction by $1,870. Had I been motivated to claim the largest possible deduction, this amount would not have been omitted. I disclose this omission voluntarily and in full, consistent with my commitment to accuracy.
 
-The overstatement identified herein arises entirely from two technical errors involving complex post-TCJA provisions: (1) the failure to complete Form 14900 and apply the IRC §163(h)(3)(B) $750,000 loan limit, and (2) the treatment of refinance points as immediately deductible rather than subject to ratable amortization under IRC §461(g)(2). These are errors of law and procedure on the preparation of the return. They are not errors of fact, and they do not reflect any intent on my part to obtain a deduction to which I am not entitled.
+The overstatement identified herein arises from two technical misunderstandings of complex post-TCJA provisions: (1) I did not apply the IRC §163(h)(3)(B) $750,000 qualified loan limit to post-2017 home acquisition debt, and (2) the Radius refinance points were treated as fully deductible in 2024 rather than amortized ratably under IRC §461(g)(2). These are misunderstandings of law and procedure, not misrepresentations of fact, and they do not reflect any intent to obtain a deduction to which I am not entitled.
 
 I am a self-employed individual who reported my Schedule C net profit of $81,379 in full, paid self-employment tax accordingly, and maintained complete records of my mortgage transactions. I offer the voluntary concession set forth in this response.
 
@@ -471,7 +471,7 @@ The original return treated the $18,900 as fully deductible in 2024. This treatm
 
 Both mortgage loans were originated after December 15, 2017 and are therefore subject to the $750,000 qualified loan limit enacted by the Tax Cuts and Jobs Act of 2017. The Form 14900 worksheet was not completed on the original return, and the limitation was not applied. This is the primary source of the overstatement.
 
-We have now completed Form 14900 in its entirety (enclosed as Exhibit 11), using the average-balance methodology prescribed by IRS Publication 936:
+I have now completed Form 14900 in its entirety (enclosed as Exhibit 11), using the average-balance methodology prescribed by IRS Publication 936:
 
 | Form 14900 — Worksheet | Amount |
 |------------------------|--------|

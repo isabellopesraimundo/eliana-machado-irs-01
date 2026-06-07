@@ -39,7 +39,7 @@
 
 O IRS emitiu a Carta 566-T (Letter 566-T) solicitando documentação para suportar a dedução de $114,034 a título de juros hipotecários declarada no Schedule A. O IRS incluiu o Form 886-H-INT (Documentos Comprobatórios da Dedução Limitada de Juros Hipotecários Residenciais) e a planilha em branco do Form 14900, sinalizando que a limitação de saldo do empréstimo prevista no IRC §163(h)(3)(B) está sob questionamento.
 
-A contribuinte, Sra. Eliana Machado de Almeida, adquiriu sua residência principal em 4 Laura's Way, Edgartown, MA 02539, em outubro de 2023, e refinanciou o financiamento hipotecário em novembro de 2024. Ambas as operações estão integralmente documentadas por instituições financeiras credenciadas. A dedução declarada reflete os valores efetivamente pagos a essas instituições; o excesso resulta exclusivamente de erros técnicos cometidos pelo responsável pela preparação da declaração, conforme descrito a seguir.
+A contribuinte, Sra. Eliana Machado de Almeida, adquiriu sua residência principal em 4 Laura's Way, Edgartown, MA 02539, em outubro de 2023, e refinanciou o financiamento hipotecário em novembro de 2024. Ambas as operações estão integralmente documentadas por instituições financeiras credenciadas. A dedução declarada reflete os valores efetivamente pagos a essas instituições; o excesso resulta de uma compreensão equivocada do limite de dedução de juros hipotecários pós-TCJA, conforme explicado a seguir.
 
 ---
 
@@ -73,9 +73,9 @@ O valor de $114,034 declarado no Schedule A, Linha 8a, está integralmente expli
 
 | Erro | Descrição | Efeito sobre a Dedução |
 |------|-----------|------------------------|
-| **Erro 1 (Principal)** | Limite de $750,000 para empréstimos previsto no IRC §163(h)(3)(B) não aplicado. A planilha de limitação de juros hipotecários do Drake foi deixada em branco. Ambos os financiamentos são posteriores ao TCJA (originados após 12/15/2017). | Superestima a dedução |
-| **Erro 2 (Principal)** | Pontos hipotecários (points) da Radius no valor de $18,900 deduzidos integralmente no ano do refinanciamento. Por tratar-se de refinanciamento, o IRC §461(g)(2) exige a amortização proporcional ao longo do prazo do empréstimo. | Superestima a dedução |
-| **Erro 3 (Secundário)** | Juros da Radius no valor de $1,869.86 (Form 1098, Caixa 1) inadvertidamente omitidos do Schedule A. | Subestima a dedução |
+| **Item 1 (Principal)** | Limite de $750,000 para empréstimos previsto no IRC §163(h)(3)(B) não aplicado. A planilha de limitação de juros hipotecários do Drake foi deixada em branco. Ambos os financiamentos são posteriores ao TCJA (originados após 12/15/2017). | Superestima a dedução |
+| **Item 2 (Principal)** | Pontos hipotecários (points) da Radius no valor de $18,900 deduzidos integralmente no ano do refinanciamento. Por tratar-se de refinanciamento, o IRC §461(g)(2) exige a amortização proporcional ao longo do prazo do empréstimo. | Superestima a dedução |
+| **Item 3 (Secundário)** | Juros da Radius no valor de $1,869.86 (Form 1098, Caixa 1) inadvertidamente omitidos do Schedule A. | Subestima a dedução |
 
 Os três erros são exclusivamente do responsável pela preparação da declaração. A contribuinte forneceu os Forms 1098 corretos de ambos os credores institucionais, manteve todos os registros comprobatórios e cooperou plenamente com esta revisão. Em nenhum momento a contribuinte fabricou, inflou ou reportou seletivamente qualquer valor.
 
@@ -422,7 +422,7 @@ Declarei cada item de renda e cada dedução em minha declaração de 2024 de bo
 
 Ademais, e de relevância para a questão da boa-fé, um erro secundário de lançamento de dados fez com que os juros da Radius no valor de $1,869.86 (Form 1098, Caixa 1) fossem **omitidos** do Schedule A — circunstância que subestimou a minha dedução em $1,870. Caso eu houvesse sido motivada a reivindicar a maior dedução possível, este valor não teria sido omitido. Divulgo esta omissão de forma voluntária e integral, em consonância com o meu compromisso de precisão.
 
-O excesso identificado neste documento decorre exclusivamente de dois erros técnicos envolvendo disposições complexas pós-TCJA: (1) a não conclusão do Form 14900 e a não aplicação do limite de $750,000 previsto no IRC §163(h)(3)(B), e (2) o tratamento dos pontos hipotecários (points) de refinanciamento como imediatamente dedutíveis, em vez de sujeitos à amortização proporcional nos termos do IRC §461(g)(2). Tratam-se de erros de direito e de procedimento na preparação da declaração. Não constituem erros de fato e não refletem qualquer intenção da minha parte de obter uma dedução à qual não tenho direito.
+O excesso identificado neste documento decorre de dois equívocos técnicos sobre disposições complexas pós-TCJA: (1) não apliquei o limite de empréstimo qualificado de US$ 750.000 do IRC §163(h)(3)(B) à dívida de aquisição de imóvel pós-2017, e (2) os pontos hipotecários do refinanciamento Radius foram tratados como totalmente dedutíveis em 2024, em vez de amortizados rateadamente nos termos do IRC §461(g)(2). Esses são equívocos de interpretação legal e procedimento, não declarações falsas de fatos, e não refletem qualquer intenção de obter uma dedução à qual não tenho direito.
 
 Sou uma profissional autônoma que declarou integralmente o lucro líquido do Schedule C no valor de $81,379, recolheu o imposto sobre trabalho autônomo correspondente e manteve registros completos das minhas transações hipotecárias. Ofereço a concessão voluntária exposta nesta resposta.
 
@@ -471,7 +471,7 @@ A declaração original tratou os $18,900 como integralmente dedutíveis em 2024
 
 Ambos os empréstimos hipotecários foram originados após December 15, 2017 e estão, portanto, sujeitos ao limite do empréstimo qualificado de $750,000 instituído pelo Tax Cuts and Jobs Act de 2017. A planilha do Form 14900 não foi preenchida na declaração original e o limite não foi aplicado. Esta é a principal fonte do excesso.
 
-Concluímos agora o preenchimento integral do Form 14900 (anexado como Anexo 11), utilizando a metodologia de saldo médio prescrita pela Publication 936 do IRS:
+Concluí agora o preenchimento integral do Form 14900 (anexado como Anexo 11), utilizando a metodologia de saldo médio prescrita pela Publication 936 do IRS:
 
 | Form 14900 — Planilha | Valor |
 |-----------------------|-------|

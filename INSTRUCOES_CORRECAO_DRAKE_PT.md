@@ -59,7 +59,7 @@ Veja exatamente como funciona no âmbito do procedimento tributário norte-ameri
 
 ### O QUE MUDOU E POR QUÊ
 
-Dois erros foram identificados na declaração original:
+Após revisão, duas discrepâncias foram identificadas na declaração original:
 
 | Erro | Original | Corrigido | Fundamentação |
 |-------|----------|-----------|-----------|
@@ -329,9 +329,9 @@ Memphis TN 38130-0911
 
 2. **Transporte de pontos para anos futuros:** Após a correção de 2024, o Drake criará um transporte de "pontos a serem amortizados em anos futuros". Lembre-se de incluir isso nas declarações de Eliana de 2025, 2026... até que os pontos sejam integralmente amortizados.
 
-3. **Assinatura de Eliana:** O Form 1040-X requer a assinatura de Eliana antes de poder ser apresentado.
+3. **Minha assinatura:** O Form 1040-X requer a assinatura de Eliana antes de poder ser apresentado.
 
-4. **Pagamento:** Caso Eliana ainda não tenha pago os $14.379 originais, ela deve pagar pelo menos esse valor agora para interromper o acúmulo de juros, e em seguida pagar os $3.799 adicionais quando o Form 1040-X for apresentado.
+4. **Pagamento:** Caso eu ainda não tenha pago os $14.379 originais, devo pagar pelo menos esse valor agora para interromper o acúmulo de juros, e em seguida pagar os $3.799 adicionais quando o Form 1040-X for apresentado.
 
 5. **Prazo:** A resposta à Letter 566-T do IRS vence em **17 de junho de 2026** (30 dias a partir de 18 de maio de 2026). Não perder este prazo.
 
