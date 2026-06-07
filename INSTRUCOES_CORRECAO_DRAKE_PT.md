@@ -1,6 +1,6 @@
 # INSTRUÇÕES DE CORREÇÃO NO DRAKE
 ## ELIANA MACHADO DE ALMEIDA — FORM 1040-X DE 2024
-## Preparado para: Isabel Raimundo, EA | Data: 7 de junho de 2026
+## Preparado para: Eliana Machado de Almeida | Data: 7 de junho de 2026
 
 ---
 
@@ -323,7 +323,7 @@ Memphis TN 38130-0911
 
 ---
 
-## OBSERVAÇÕES IMPORTANTES PARA ISABEL
+## OBSERVAÇÕES IMPORTANTES
 
 1. **Nota Hipotecária (Mortgage Note) do Radius:** Você precisa da nota para confirmar o prazo do empréstimo (30 anos, 15 anos ou outro). Isso afeta o valor da amortização dos pontos hipotecários (points). A diferença é pequena ($66 versus $132 em 2024), mas deve ser exata.
 
@@ -337,6 +337,5 @@ Memphis TN 38130-0911
 
 ---
 
-*Arquivo de Correção no Drake preparado por: Advance Tax Services Accountants Inc | 7 de junho de 2026*
-*Para uso de: Isabel Raimundo, EA — Advance Tax Services Accountants Inc*
-*PTIN: P02482553 | Tel: 781-759-2202*
+*Arquivo de Correção no Drake preparado em: 7 de junho de 2026*
+*Para: Eliana Machado de Almeida | 7 Briarwood Drive, Edgartown MA 02539*

@@ -1,7 +1,7 @@
 # PACOTE DE DEFESA EM AUDITORIA DO IRS
 ## ELIANA MACHADO DE ALMEIDA | ANO FISCAL 2024 | CARTA 566-T (Letter 566-T)
 
-**Elaborado por:** Advance Tax Services Accountants Inc — Isabel Raimundo, EA (PTIN P02482553)
+**Elaborado por:** Eliana Machado de Almeida, Pro Se (Contribuinte sem representação)
 **Data:** June 7, 2026
 **Prazo de Resposta:** June 17, 2026
 **Endereço do IRS:** Internal Revenue Service, P.O. Box 309011, AMC 8236, Memphis TN 38130-0911
@@ -406,27 +406,25 @@ Memphis TN 38130-0911
 **Número de Identificação do Contribuinte:** XXX-XX-6336
 **Formulário:** 1040 | **Período Fiscal Encerrado em:** December 31, 2024
 **Notificação:** Carta 566-T (Letter 566-T), datada de May 18, 2026 | **Código do Projeto:** 0417
-**Representante Autorizado:** Isabel Raimundo, EA — PTIN P02482553
-
 ---
 
 Prezado(a) Auditor(a) Fiscal (ID Nº 0361000000):
 
-Este escritório submete a seguinte resposta à Carta 566-T (Letter 566-T) datada de May 18, 2026, recebida em nome de nossa cliente, Sra. Eliana Machado de Almeida. O exame diz respeito à dedução de juros hipotecários no Schedule A no valor de $114,034 declarada no Form 1040 do exercício de 2024. Realizamos uma revisão minuciosa e independente de todos os documentos de origem, incluindo ambos os Forms 1098, o Relatório de Atividade do Empréstimo (Loan Activity Report) da AmWest, a Declaração de Fechamento (Closing Disclosure), a Nota Hipotecária (Mortgage Note) e os registros de lançamento de dados no software de preparação tributária Drake. A reconciliação está integralmente resolvida. Nossas conclusões, concessões e documentação comprobatória estão expostas a seguir.
+Eu, Eliana Machado de Almeida, submeto a seguinte resposta à Carta 566-T (Letter 566-T) datada de May 18, 2026. O exame diz respeito à dedução de juros hipotecários no Schedule A no valor de $114,034 declarada no meu Form 1040 do exercício de 2024. Realizei uma revisão minuciosa de todos os documentos de origem, incluindo ambos os Forms 1098, o Relatório de Atividade do Empréstimo (Loan Activity Report) da AmWest, a Declaração de Fechamento (Closing Disclosure), a Nota Hipotecária (Mortgage Note) e os registros da minha declaração fiscal. A reconciliação está integralmente resolvida. Minhas conclusões, concessões e documentação comprobatória estão expostas a seguir.
 
 ---
 
 **I. Declaração de Boa-Fé e Caráter da Contribuinte**
 
-De início, desejamos abordar diretamente a natureza e a origem da discrepância que motivou este exame.
+De início, desejo abordar diretamente a natureza e a origem da discrepância que motivou este exame.
 
-A Sra. Machado de Almeida declarou cada item de renda e cada dedução em sua declaração de 2024 de boa-fé, com base em documentos fornecidos por seus credores institucionais. O valor de $114,034 declarado no Schedule A, Linha 8a, corresponde precisamente aos valores efetivos refletidos nos Forms 1098 emitidos pela AmWest Funding Corp e pela Radius Financial Group — dois credores hipotecários regulamentados. Nenhum valor foi fabricado, estimado ou inflacionado. Cada dólar declarado remete diretamente a um pagamento documentado.
+Declarei cada item de renda e cada dedução em minha declaração de 2024 de boa-fé, com base em documentos fornecidos pelos meus credores institucionais. O valor de $114,034 declarado no Schedule A, Linha 8a, corresponde precisamente aos valores efetivos refletidos nos Forms 1098 emitidos pela AmWest Funding Corp e pela Radius Financial Group — dois credores hipotecários regulamentados. Nenhum valor foi fabricado, estimado ou inflacionado. Cada dólar declarado remete diretamente a um pagamento documentado.
 
-Ademais, e de relevância para a questão da boa-fé, um erro secundário de lançamento de dados fez com que os juros da Radius no valor de $1,869.86 (Form 1098, Caixa 1) fossem **omitidos** do Schedule A — circunstância que subestimou a dedução da contribuinte em $1,870. Caso a Sra. Machado de Almeida houvesse sido motivada a reivindicar a maior dedução possível, este valor não teria sido omitido. Divulgamos esta omissão de forma voluntária e integral, em consonância com nossas obrigações nos termos da Circular 230 e com o compromisso de precisão de nossa cliente.
+Ademais, e de relevância para a questão da boa-fé, um erro secundário de lançamento de dados fez com que os juros da Radius no valor de $1,869.86 (Form 1098, Caixa 1) fossem **omitidos** do Schedule A — circunstância que subestimou a minha dedução em $1,870. Caso eu houvesse sido motivada a reivindicar a maior dedução possível, este valor não teria sido omitido. Divulgo esta omissão de forma voluntária e integral, em consonância com o meu compromisso de precisão.
 
-O excesso identificado neste documento decorre exclusivamente de dois erros técnicos cometidos pelo responsável pela preparação da declaração, envolvendo disposições complexas pós-TCJA: (1) a não conclusão do Form 14900 e a não aplicação do limite de $750,000 previsto no IRC §163(h)(3)(B), e (2) o tratamento dos pontos hipotecários (points) de refinanciamento como imediatamente dedutíveis, em vez de sujeitos à amortização proporcional nos termos do IRC §461(g)(2). Tratam-se de erros de direito e de procedimento por parte do responsável pela preparação da declaração. Não constituem erros de fato e não refletem qualquer intenção da contribuinte de obter uma dedução à qual não tem direito.
+O excesso identificado neste documento decorre exclusivamente de dois erros técnicos envolvendo disposições complexas pós-TCJA: (1) a não conclusão do Form 14900 e a não aplicação do limite de $750,000 previsto no IRC §163(h)(3)(B), e (2) o tratamento dos pontos hipotecários (points) de refinanciamento como imediatamente dedutíveis, em vez de sujeitos à amortização proporcional nos termos do IRC §461(g)(2). Tratam-se de erros de direito e de procedimento na preparação da declaração. Não constituem erros de fato e não refletem qualquer intenção da minha parte de obter uma dedução à qual não tenho direito.
 
-A Sra. Machado de Almeida é uma profissional autônoma que declarou integralmente o lucro líquido de seu Schedule C no valor de $81,379, recolheu o imposto sobre trabalho autônomo correspondente e manteve registros completos de suas transações hipotecárias. Ela cooperou plena e imediatamente com nossa revisão e autorizou a concessão voluntária exposta nesta resposta.
+Sou uma profissional autônoma que declarou integralmente o lucro líquido do Schedule C no valor de $81,379, recolheu o imposto sobre trabalho autônomo correspondente e manteve registros completos das minhas transações hipotecárias. Ofereço a concessão voluntária exposta nesta resposta.
 
 ---
 
@@ -449,7 +447,7 @@ O valor de $114,034 não contém nenhum montante proveniente de fonte que não s
 
 Os juros da AmWest no valor de $95,134 foram confirmados pagamento a pagamento contra o Relatório de Atividade do Empréstimo (Loan Activity Report) do Empréstimo Nº 2000086400, datado de June 3, 2026. Onze pagamentos mensais regulares foram efetuados no período de janeiro a novembro de 2024, e um pagamento final de juros no valor de $4,842.28 foi realizado em November 19, 2024, por ocasião da quitação do empréstimo. O Relatório de Atividade do Empréstimo (Loan Activity Report) e o Form 1098 estão em perfeita concordância. Não há juros dedutíveis adicionais embutidos na transação de quitação.
 
-Anexamos o Relatório de Atividade do Empréstimo (Loan Activity Report) (Anexo 6) e o Form 1098 da AmWest (Anexo 4) para apreciação do(a) Auditor(a).
+Anexo o Relatório de Atividade do Empréstimo (Loan Activity Report) (Anexo 6) e o Form 1098 da AmWest (Anexo 4) para apreciação do(a) Auditor(a).
 
 ---
 
@@ -492,7 +490,7 @@ O Form 14900 foi preenchido integralmente e está anexado como Anexo 11.
 
 **VI. Concessão e Correção Proposta**
 
-Após revisão cuidadosa e minuciosa, concedemos respeitosamente o excesso da dedução de juros hipotecários residenciais e apresentamos os valores corretos abaixo.
+Após revisão cuidadosa e minuciosa, concedo respeitosamente o excesso da dedução de juros hipotecários residenciais e apresento os valores corretos abaixo.
 
 | Item | Conforme Declarado | Corrigido | Fundamento Legal |
 |------|--------------------|-----------|-----------------|
@@ -501,9 +499,9 @@ Após revisão cuidadosa e minuciosa, concedemos respeitosamente o excesso da de
 | **Total da dedução hipotecária corrigida — Schedule A** | **$114,034** | **$77,476** | |
 | **Redução líquida no Schedule A** | | **($36,558)** | |
 
-Registramos ainda que a redução das deduções discriminadas aumentará a Dedução de Renda de Negócio Qualificado (QBID) da contribuinte nos termos do IRC §199A de $5,196 para aproximadamente $12,508, compensando parcialmente o impacto tributário. A renda tributável adicional líquida, após a compensação do QBID, é de aproximadamente $29,246, e o imposto de renda adicional estimado é de aproximadamente $3,510. Os valores exatos serão refletidos no Form 1040-X.
+Registro ainda que a redução das deduções discriminadas aumentará a minha Dedução de Renda de Negócio Qualificado (QBID) nos termos do IRC §199A de $5,196 para aproximadamente $12,508, compensando parcialmente o impacto tributário. A renda tributável adicional líquida, após a compensação do QBID, é de aproximadamente $29,246, e o imposto de renda adicional estimado é de aproximadamente $3,510. Os valores exatos serão refletidos no Form 1040-X.
 
-Estamos preparados para protocolar o Form 1040-X a fim de refletir todas as correções. No interesse de uma resolução ordenada e eficiente, solicitamos respeitosamente que o(a) Auditor(a) informe se o processamento por meio do exame por correspondência é preferível, ou se é necessário o protocolo de uma declaração retificadora formal em separado antes da emissão de qualquer ajuste proposto.
+Estou preparada para protocolar o Form 1040-X a fim de refletir todas as correções. No interesse de uma resolução ordenada e eficiente, solicito respeitosamente que o(a) Auditor(a) informe se o processamento por meio do exame por correspondência é preferível, ou se é necessário o protocolo de uma declaração retificadora formal em separado antes da emissão de qualquer ajuste proposto.
 
 Todos os documentos comprobatórios estão anexados conforme o Índice de Anexos em apenso.
 
@@ -511,12 +509,9 @@ Todos os documentos comprobatórios estão anexados conforme o Índice de Anexos
 
 Respeitosamente submetido,
 
-**Isabel Raimundo, EA**
-PTIN: P02482553
-Advance Tax Services Accountants Inc
-4 Mount Royal Ave, Suite 4-110F
-Marlborough, MA 01752
-Telefone: 781-759-2202
+**Eliana Machado de Almeida**
+7 Briarwood Drive
+Edgartown, MA 02539
 
 *Anexos: Form 14817 (Folha de Rosto de Resposta); Anexos 1–12*
 
@@ -531,22 +526,22 @@ Telefone: 781-759-2202
 **Contribuinte:** ELIANA MACHADO DE ALMEIDA | **SSN últimos 4 dígitos:** 6336 | **Período Fiscal:** December 31, 2024
 
 **Para:** Internal Revenue Service, Exame por Correspondência
-**De:** Isabel Raimundo, EA — Advance Tax Services Accountants Inc
-**Telefone:** 781-759-2202 | **Melhor horário:** Segunda a Sexta, 9:00 a.m. – 5:00 p.m. ET
+**De:** Eliana Machado de Almeida, Contribuinte sem Representação
+**Telefone:** [constante dos registros do IRS]
 
 ---
 
 **Comentários:**
 
-Submetemos a seguinte resposta completa à Carta 566-T (Letter 566-T) (Schedule A — Juros Hipotecários Residenciais e Pontos Hipotecários (points), $114,034) para o ano fiscal de 2024 de Eliana Machado de Almeida. Todas as questões foram identificadas, analisadas e resolvidas integralmente. Uma concessão voluntária é oferecida.
+Submeto a seguinte resposta completa à Carta 566-T (Letter 566-T) (Schedule A — Juros Hipotecários Residenciais e Pontos Hipotecários (points), $114,034) para o meu ano fiscal de 2024. Todas as questões foram identificadas, analisadas e resolvidas integralmente. Uma concessão voluntária é oferecida.
 
 ---
 
 **(1) Boa-Fé da Contribuinte — Ausência de Fabricação ou Inflação de Qualquer Valor**
 
-A contribuinte, Sra. Machado de Almeida, declarou juros hipotecários com base exclusivamente nos Forms 1098 emitidos por dois credores institucionais regulamentados: AmWest Funding Corp e Radius Financial Group. Cada dólar declarado no Schedule A remete diretamente a um documento emitido pelo credor. Em nenhum momento a contribuinte estimou, fabricou ou inflacionou qualquer valor. Os erros identificados neste documento são exclusivamente erros técnicos do responsável pela preparação da declaração, envolvendo disposições complexas do Tax Cuts and Jobs Act de 2017.
+Declarei juros hipotecários com base exclusivamente nos Forms 1098 emitidos por dois credores institucionais regulamentados: AmWest Funding Corp e Radius Financial Group. Cada dólar declarado no Schedule A remete diretamente a um documento emitido pelo credor. Em nenhum momento estimei, fabriquei ou inflacionei qualquer valor. Os erros identificados neste documento envolvem disposições complexas do Tax Cuts and Jobs Act de 2017.
 
-Registramos ainda que um erro secundário do responsável pela preparação da declaração fez com que os juros da Radius no valor de $1,869.86 fossem **omitidos** do Schedule A — reduzindo a dedução declarada abaixo de seu valor correto em $1,870. Este resultado é incompatível com qualquer intenção de declarar valores indevidos e está sendo divulgado voluntariamente.
+Registro ainda que um erro secundário fez com que os juros da Radius no valor de $1,869.86 fossem **omitidos** do Schedule A — reduzindo a minha dedução declarada abaixo de seu valor correto em $1,870. Este resultado é incompatível com qualquer intenção de declarar valores indevidos e está sendo divulgado voluntariamente.
 
 ---
 
@@ -584,9 +579,9 @@ Ambos os empréstimos foram originados após December 15, 2017. O limite do empr
 
 **(6) Concessão Voluntária**
 
-Concedemos respeitosamente que a dedução hipotecária correta do Schedule A para 2024 é **$77,476** ($77,409 de juros dedutíveis nos termos do Form 14900, acrescidos de $67 de pontos hipotecários (points) da Radius amortizados e ajustados pela proporção), em comparação com $114,034 conforme declarado. O excesso líquido é de **$36,558**.
+Concedo respeitosamente que a dedução hipotecária correta do Schedule A para 2024 é **$77,476** ($77,409 de juros dedutíveis nos termos do Form 14900, acrescidos de $67 de pontos hipotecários (points) da Radius amortizados e ajustados pela proporção), em comparação com $114,034 conforme declarado. O excesso líquido é de **$36,558**.
 
-Em decorrência desta redução, a Dedução de Renda de Negócio Qualificado (QBID) da contribuinte nos termos do IRC §199A aumenta de $5,196 para aproximadamente $12,508. A renda tributável adicional líquida, após a compensação do QBID, é de aproximadamente $29,246. Estamos preparados para protocolar o Form 1040-X a fim de refletir todas as correções.
+Em decorrência desta redução, a minha Dedução de Renda de Negócio Qualificado (QBID) nos termos do IRC §199A aumenta de $5,196 para aproximadamente $12,508. A renda tributável adicional líquida, após a compensação do QBID, é de aproximadamente $29,246. Estou preparada para protocolar o Form 1040-X a fim de refletir todas as correções.
 
 Os documentos comprobatórios (Anexos 1–12) estão anexados conforme o Índice de Anexos.
 
@@ -712,5 +707,4 @@ Os documentos comprobatórios (Anexos 1–12) estão anexados conforme o Índice
 
 *Fim do Pacote de Defesa em Auditoria*
 *Elaborado em: June 7, 2026*
-*Advance Tax Services Accountants Inc | Isabel Raimundo, EA | PTIN P02482553*
-*4 Mount Royal Ave, Suite 4-110F, Marlborough MA 01752 | Tel: 781-759-2202*
+*Eliana Machado de Almeida | Contribuinte sem Representação | 7 Briarwood Drive, Edgartown MA 02539*

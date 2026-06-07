@@ -1,7 +1,7 @@
 # IRS AUDIT DEFENSE PACKAGE
 ## ELIANA MACHADO DE ALMEIDA | TAX YEAR 2024 | LETTER 566-T
 
-**Prepared by:** Advance Tax Services Accountants Inc — Isabel Raimundo, EA (PTIN P02482553)
+**Prepared by:** Eliana Machado de Almeida, Pro Se
 **Date:** June 7, 2026
 **Response Deadline:** June 17, 2026
 **IRS Address:** Internal Revenue Service, P.O. Box 309011, AMC 8236, Memphis TN 38130-0911
@@ -406,27 +406,25 @@ Memphis TN 38130-0911
 **Taxpayer Identification Number:** XXX-XX-6336
 **Form:** 1040 | **Tax Period Ended:** December 31, 2024
 **Notice:** Letter 566-T, dated May 18, 2026 | **Project Code:** 0417
-**Authorized Representative:** Isabel Raimundo, EA — PTIN P02482553
-
 ---
 
 Dear Tax Examiner (ID #0361000000):
 
-This office submits the following response to IRS Letter 566-T dated May 18, 2026, received on behalf of our client, Ms. Eliana Machado de Almeida. The examination concerns the Schedule A mortgage interest deduction of $114,034 claimed on the 2024 Form 1040. We have conducted a thorough and independent review of all source documents, including both Forms 1098, the AmWest Loan Activity Report, the Closing Disclosure, the Mortgage Note, and the underlying Drake tax software data entry records. The reconciliation is fully resolved. Our findings, concessions, and supporting documentation are set forth herein.
+I, Eliana Machado de Almeida, submit the following response to IRS Letter 566-T dated May 18, 2026. The examination concerns the Schedule A mortgage interest deduction of $114,034 claimed on my 2024 Form 1040. I have conducted a thorough review of all source documents, including both Forms 1098, the AmWest Loan Activity Report, the Closing Disclosure, the Mortgage Note, and my tax return records. The reconciliation is fully resolved. My findings, concessions, and supporting documentation are set forth herein.
 
 ---
 
 **I. Statement of Good Faith and Taxpayer Character**
 
-At the outset, we wish to address directly the nature and origin of the discrepancy that prompted this examination.
+At the outset, I wish to address directly the nature and origin of the discrepancy that prompted this examination.
 
-Ms. Machado de Almeida reported every item of income and every deduction on her 2024 return in good faith, based upon documents provided by her institutional lenders. The $114,034 claimed on Schedule A, Line 8a corresponds precisely to actual amounts reflected on Forms 1098 issued by AmWest Funding Corp and Radius Financial Group — two regulated mortgage lenders. No figure was fabricated, estimated, or inflated. Every dollar claimed traces directly to a documented payment.
+I reported every item of income and every deduction on my 2024 return in good faith, based upon documents provided by my institutional lenders. The $114,034 claimed on Schedule A, Line 8a corresponds precisely to actual amounts reflected on Forms 1098 issued by AmWest Funding Corp and Radius Financial Group — two regulated mortgage lenders. No figure was fabricated, estimated, or inflated. Every dollar claimed traces directly to a documented payment.
 
-Furthermore, and of significance to the good-faith question, a secondary data-entry error caused the Radius interest of $1,869.86 (Form 1098, Box 1) to be **omitted** from Schedule A — a circumstance that understated the taxpayer's deduction by $1,870. Had Ms. Machado de Almeida been motivated to claim the largest possible deduction, this amount would not have been omitted. We disclose this omission voluntarily and in full, consistent with our obligation under Circular 230 and our client's commitment to accuracy.
+Furthermore, and of significance to the good-faith question, a secondary data-entry error caused the Radius interest of $1,869.86 (Form 1098, Box 1) to be **omitted** from Schedule A — a circumstance that understated my deduction by $1,870. Had I been motivated to claim the largest possible deduction, this amount would not have been omitted. I disclose this omission voluntarily and in full, consistent with my commitment to accuracy.
 
-The overstatement identified herein arises entirely from two technical preparer errors involving complex post-TCJA provisions: (1) the failure to complete Form 14900 and apply the IRC §163(h)(3)(B) $750,000 loan limit, and (2) the treatment of refinance points as immediately deductible rather than subject to ratable amortization under IRC §461(g)(2). These are errors of law and procedure on the part of the return preparer. They are not errors of fact, and they do not reflect any intent on the part of the taxpayer to obtain a deduction to which she is not entitled.
+The overstatement identified herein arises entirely from two technical errors involving complex post-TCJA provisions: (1) the failure to complete Form 14900 and apply the IRC §163(h)(3)(B) $750,000 loan limit, and (2) the treatment of refinance points as immediately deductible rather than subject to ratable amortization under IRC §461(g)(2). These are errors of law and procedure on the preparation of the return. They are not errors of fact, and they do not reflect any intent on my part to obtain a deduction to which I am not entitled.
 
-Ms. Machado de Almeida is a self-employed individual who reported her Schedule C net profit of $81,379 in full, paid self-employment tax accordingly, and maintained complete records of her mortgage transactions. She cooperated fully and immediately with our review and authorized the voluntary concession set forth in this response.
+I am a self-employed individual who reported my Schedule C net profit of $81,379 in full, paid self-employment tax accordingly, and maintained complete records of my mortgage transactions. I offer the voluntary concession set forth in this response.
 
 ---
 
@@ -449,7 +447,7 @@ The $114,034 figure does not contain any amount from outside a Form 1098. It con
 
 The AmWest interest of $95,134 has been verified on a payment-by-payment basis against the Loan Activity Report for Loan #2000086400, dated June 3, 2026. Eleven regular monthly payments were made during the period January through November 2024, and a final interest payment of $4,842.28 was made on November 19, 2024, upon payoff of the loan. The Loan Activity Report and Form 1098 are in complete agreement. There is no additional deductible interest embedded in the payoff transaction.
 
-We enclose the Loan Activity Report (Exhibit 6) and the AmWest Form 1098 (Exhibit 4) for the Examiner's review.
+I enclose the Loan Activity Report (Exhibit 6) and the AmWest Form 1098 (Exhibit 4) for the Examiner's review.
 
 ---
 
@@ -492,7 +490,7 @@ The Form 14900 has been completed in full and is enclosed as Exhibit 11.
 
 **VI. Concession and Proposed Correction**
 
-After careful and thorough review, we respectfully concede the overstatement of the home mortgage interest deduction and present the correct figures below.
+After careful and thorough review, I respectfully concede the overstatement of the home mortgage interest deduction and present the correct figures below.
 
 | Item | As Filed | Corrected | Authority |
 |------|---------|-----------|-----------|
@@ -501,9 +499,9 @@ After careful and thorough review, we respectfully concede the overstatement of 
 | **Total corrected mortgage deduction — Schedule A** | **$114,034** | **$77,476** | |
 | **Net reduction in Schedule A** | | **($36,558)** | |
 
-We further note that the reduction in itemized deductions will increase the taxpayer's Qualified Business Income Deduction under IRC §199A from $5,196 to approximately $12,508, partially offsetting the tax impact. The net additional taxable income is approximately $29,246, and the estimated additional income tax is approximately $3,510. Exact figures will be reflected on Form 1040-X.
+I further note that the reduction in itemized deductions will increase my Qualified Business Income Deduction under IRC §199A from $5,196 to approximately $12,508, partially offsetting the tax impact. The net additional taxable income is approximately $29,246, and the estimated additional income tax is approximately $3,510. Exact figures will be reflected on Form 1040-X.
 
-We are prepared to file Form 1040-X to reflect all corrections. In the interest of an orderly and efficient resolution, we respectfully request that the Examiner advise whether processing through the correspondence examination is preferred, or whether a formal amended return filed under separate cover is required prior to the issuance of any proposed adjustment.
+I am prepared to file Form 1040-X to reflect all corrections. In the interest of an orderly and efficient resolution, I respectfully request that the Examiner advise whether processing through the correspondence examination is preferred, or whether a formal amended return filed under separate cover is required prior to the issuance of any proposed adjustment.
 
 All supporting exhibits are enclosed per the attached Exhibit Index.
 
@@ -511,12 +509,9 @@ All supporting exhibits are enclosed per the attached Exhibit Index.
 
 Respectfully submitted,
 
-**Isabel Raimundo, EA**
-PTIN: P02482553
-Advance Tax Services Accountants Inc
-4 Mount Royal Ave, Suite 4-110F
-Marlborough, MA 01752
-Telephone: 781-759-2202
+**Eliana Machado de Almeida**
+7 Briarwood Drive
+Edgartown, MA 02539
 
 *Enclosures: Form 14817 (Reply Cover Sheet); Exhibits 1–12*
 
@@ -531,22 +526,22 @@ Telephone: 781-759-2202
 **Taxpayer:** ELIANA MACHADO DE ALMEIDA | **SSN last 4:** 6336 | **Tax Period:** December 31, 2024
 
 **To:** Internal Revenue Service, Correspondence Examination
-**From:** Isabel Raimundo, EA — Advance Tax Services Accountants Inc
-**Telephone:** 781-759-2202 | **Best time:** Monday–Friday, 9:00 a.m. – 5:00 p.m. ET
+**From:** Eliana Machado de Almeida, Pro Se
+**Telephone:** [on file with IRS]
 
 ---
 
 **Comments:**
 
-We submit the following complete response to Letter 566-T (Schedule A — Home Mortgage Interest and Points, $114,034) for the 2024 tax year of Eliana Machado de Almeida. All issues have been identified, analyzed, and resolved in full. A voluntary concession is offered.
+I submit the following complete response to Letter 566-T (Schedule A — Home Mortgage Interest and Points, $114,034) for my 2024 tax year. All issues have been identified, analyzed, and resolved in full. A voluntary concession is offered.
 
 ---
 
 **(1) Taxpayer Good Faith — No Fabrication or Inflation of Any Figure**
 
-The taxpayer, Ms. Machado de Almeida, reported mortgage interest based entirely upon Forms 1098 issued by two regulated institutional lenders: AmWest Funding Corp and Radius Financial Group. Every dollar claimed on Schedule A traces directly to a lender-issued document. At no point did the taxpayer estimate, fabricate, or inflate any figure. The errors identified herein are exclusively technical preparer errors involving complex provisions of the Tax Cuts and Jobs Act of 2017.
+I reported mortgage interest based entirely upon Forms 1098 issued by two regulated institutional lenders: AmWest Funding Corp and Radius Financial Group. Every dollar claimed on Schedule A traces directly to a lender-issued document. At no point did I estimate, fabricate, or inflate any figure. The errors identified herein involve complex provisions of the Tax Cuts and Jobs Act of 2017.
 
-We further note that a secondary preparer error caused the Radius interest of $1,869.86 to be **omitted** from Schedule A — reducing the claimed deduction below its correct amount by $1,870. This outcome is inconsistent with any intent to over-claim and is being disclosed voluntarily.
+I further note that a secondary error caused the Radius interest of $1,869.86 to be **omitted** from Schedule A — reducing my claimed deduction below its correct amount by $1,870. This outcome is inconsistent with any intent to over-claim and is being disclosed voluntarily.
 
 ---
 
@@ -584,9 +579,9 @@ Both loans were originated after December 15, 2017. The post-TCJA $750,000 quali
 
 **(6) Voluntary Concession**
 
-We respectfully concede that the correct Schedule A mortgage deduction for 2024 is **$77,476** ($77,409 deductible interest per Form 14900, plus $67 of amortized and ratio-adjusted Radius points), compared to $114,034 as filed. The net overstatement is **$36,558**.
+I respectfully concede that the correct Schedule A mortgage deduction for 2024 is **$77,476** ($77,409 deductible interest per Form 14900, plus $67 of amortized and ratio-adjusted Radius points), compared to $114,034 as filed. The net overstatement is **$36,558**.
 
-As a result of this reduction, the taxpayer's Qualified Business Income Deduction under IRC §199A increases from $5,196 to approximately $12,508. The net additional taxable income, after the QBID offset, is approximately $29,246. We are prepared to file Form 1040-X to reflect all corrections.
+As a result of this reduction, my Qualified Business Income Deduction under IRC §199A increases from $5,196 to approximately $12,508. The net additional taxable income, after the QBID offset, is approximately $29,246. I am prepared to file Form 1040-X to reflect all corrections.
 
 Supporting documents (Exhibits 1–12) are enclosed per the Exhibit Index.
 
@@ -712,5 +707,4 @@ Supporting documents (Exhibits 1–12) are enclosed per the Exhibit Index.
 
 *End of Audit Defense Package*
 *Prepared: June 7, 2026*
-*Advance Tax Services Accountants Inc | Isabel Raimundo, EA | PTIN P02482553*
-*4 Mount Royal Ave, Suite 4-110F, Marlborough MA 01752 | Tel: 781-759-2202*
+*Eliana Machado de Almeida | Pro Se | 7 Briarwood Drive, Edgartown MA 02539*

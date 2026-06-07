@@ -1,6 +1,6 @@
 # DRAKE CORRECTION INSTRUCTIONS
 ## ELIANA MACHADO DE ALMEIDA — 2024 FORM 1040-X
-## Prepared for: Isabel Raimundo, EA | Date: June 7, 2026
+## Prepared for: Eliana Machado de Almeida | Date: June 7, 2026
 
 ---
 
@@ -323,7 +323,7 @@ Memphis TN 38130-0911
 
 ---
 
-## IMPORTANT NOTES FOR ISABEL
+## IMPORTANT NOTES
 
 1. **Radius Mortgage Note:** You need the note to confirm the loan term (30-year vs. 15-year vs. other). This affects the points amortization amount. The difference is small ($66 vs. $132 in 2024) but should be exact.
 
@@ -337,6 +337,5 @@ Memphis TN 38130-0911
 
 ---
 
-*Drake Correction File prepared by: Claude Code Analysis | June 7, 2026*
-*For use by: Isabel Raimundo, EA — Advance Tax Services Accountants Inc*
-*PTIN: P02482553 | Tel: 781-759-2202*
+*Drake Correction File prepared: June 7, 2026*
+*For: Eliana Machado de Almeida | 7 Briarwood Drive, Edgartown MA 02539*
