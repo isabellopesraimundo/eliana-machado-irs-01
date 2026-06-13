@@ -16,7 +16,7 @@ Internal Revenue Service
 --------------------------------------------------------------------------------
 Re:     Response to LTR566T — Notice Date: May 18, 2026
         Taxpayer:   Eliana Machado de Almeida
-        SSN:        XXX-XX-XXXX
+        SSN:        697-75-6336
         Tax Year:   2024
         Notice:     LTR566T
 --------------------------------------------------------------------------------
@@ -238,7 +238,7 @@ Sincerely,
 
 _________________________________        Date: ________________
 Eliana Machado de Almeida
-SSN: XXX-XX-XXXX
+SSN: 697-75-6336
 Address: PO Box 1467, Edgartown, MA 02539
 Phone: (401) 633-5598
 Email: elly_usa@hotmail.com
