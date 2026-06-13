@@ -1,0 +1,256 @@
+================================================================================
+RESPONSE TO IRS NOTICE LTR566T
+================================================================================
+
+Advance Tax Servs Accountants Inc
+4 Mount Royal Ave Ste 4 110 F
+Marlborough, MA 01752
+Phone: (781) 759-2202
+Email: isabel@advancetaxservices.accountants
+
+Date: June 13, 2026
+
+Internal Revenue Service
+[ADDRESS AS SHOWN ON NOTICE LTR566T]
+
+--------------------------------------------------------------------------------
+Re:     Response to LTR566T — Notice Date: May 18, 2026
+        Taxpayer:   Eliana Machado de Almeida
+        SSN:        XXX-XX-XXXX
+        Tax Year:   2024
+        Notice:     LTR566T
+--------------------------------------------------------------------------------
+
+Dear IRS Examiner,
+
+I, Eliana Machado de Almeida, am writing in response to the LTR566T dated
+May 18, 2026, regarding my 2024 Federal Income Tax Return (Form 1040).
+
+My return was electronically filed on September 26, 2025, and accepted by the
+IRS on the same date (Submission ID: XXXXXX2025269pe21o4g). The return was
+prepared by Isabel Raimundo, Advance Tax Servs Accountants Inc
+(PTIN: XXXXXXXXX / EIN: 88-0523842).
+
+Below is a complete summary of my 2024 return with supporting information.
+
+================================================================================
+1. FILING STATUS & RETURN SUMMARY
+================================================================================
+
+  Filing Status:                      Single
+  Total Income (Schedule 1):          $153,838
+  Adjusted Gross Income:              $148,089
+  Itemized Deductions (Schedule A):   $122,109
+  QBI Deduction (Form 8995):          $  5,196
+  Taxable Income:                     $ 20,784
+  Income Tax (Line 16):               $  2,261
+  Self-Employment Tax (Schedule SE):  $ 11,498
+  Total Tax:                          $ 13,759
+  Balance Due:                        $ 14,379
+
+================================================================================
+2. BUSINESS INCOME — SCHEDULE C
+================================================================================
+
+Business: Housecleaning Service (NAICS 561720)
+Name:     Eliana Machado de Almeida
+Address:  PO Box 1467, Edgartown, MA 02539
+Method:   Cash basis
+
+  Gross Receipts:                     $249,000
+  Cost of Goods Sold:                 $135,973
+    - Purchases (supplies/materials):   $68,572
+    - Cost of Labor:                    $67,401
+  Gross Profit:                       $113,027
+
+  Business Expenses:
+    Car & Truck (13,800 mi @ $0.67):  $  9,246
+    Insurance:                         $  1,294
+    Office Expenses:                   $ 14,584
+      - Bank Charges:          $75
+      - Internet:           $2,967
+      - Telephone:            $761
+      - Office Supplies:    $6,031
+      - Shipping:             $150
+      - Professional Fees:  $4,600
+    Supplies:                          $  6,031
+    Deductible Meals:                  $    493
+  Total Expenses:                      $ 31,648
+
+  NET PROFIT (Schedule C, Line 31):   $ 81,379
+
+Vehicle: Van, placed in service 01/01/2022
+  Total miles driven 2024:  16,400
+  Business miles:           13,800 (84.15%)
+  Other miles:               2,600
+
+Supporting documents enclosed:
+  - Bank statements showing gross receipts of $249,000
+  - Mileage log (2024)
+  - Receipts for all business expenses
+  - Labor cost records
+
+================================================================================
+3. RENTAL INCOME — SCHEDULE E
+================================================================================
+
+PROPERTY A: 27 Cormorant Circle, Edgartown, MA 02539
+  Type:               Single Family Residence
+  Purchased:          05/23/2005
+  Cost Basis:         $1,410,200
+  Fair Rental Days:   365 | Personal Use Days: 0
+
+  Income:
+    Rents Received:               $146,624
+
+  Expenses:
+    Insurance:                    $  3,454
+    Mortgage Interest:            $ 33,397
+      (Two mortgages: $16,880 + $16,517)
+    Property Taxes:               $  2,885
+    Depreciation (27.5 yrs SL):   $ 51,275
+    Other Expenses:               $ 13,559
+      - Condo Fee:       $  400
+      - Solar Panels:    $2,750
+      - Water/Sewer:    $10,409
+  Total Expenses:                 $104,570
+
+  NET INCOME (Property A):        $ 42,054
+
+----------------------------------------
+
+PROPERTY B: 7 Briarwood Dr, Edgartown, MA 02539
+  Type:               Multi-Family Residence
+  Purchased:          03/09/2017
+  Cost Basis:         $733,600
+  Fair Rental Days:   365 | Personal Use Days: 0
+
+  Income:
+    Rents Received:               $ 90,000
+
+  Expenses:
+    Insurance:                    $  3,503
+    Mortgage Interest:            $ 14,292
+    Property Taxes:               $  2,513
+    Depreciation (27.5 yrs SL):   $ 26,674
+    Other Expenses:               $ 12,613
+      - Solar Panels:    $3,803
+      - Water/Sewer:     $8,060
+      - Condo Fee:       $  750
+  Total Expenses:                 $ 59,595
+
+  NET INCOME (Property B):        $ 30,405
+
+----------------------------------------
+
+  TOTAL SCHEDULE E NET INCOME:    $ 72,459
+
+Supporting documents enclosed:
+  - Lease agreements for both properties (365 days rental, no personal use)
+  - Forms 1098 — Mortgage Interest Statements (both properties)
+  - Property tax bills — 27 Cormorant Circle & 7 Briarwood Dr
+  - Insurance invoices (both properties)
+  - Depreciation schedules (Form 4562)
+  - Solar panel and utility invoices
+  - Condo fee statements
+
+================================================================================
+4. ITEMIZED DEDUCTIONS — SCHEDULE A
+================================================================================
+
+  State & Local Income Taxes (MA 2023 paid):  $  5,424
+  State & Local Real Estate Taxes:             $  2,651
+  SALT Subtotal:                    $8,075
+  SALT Cap (limited to):                       $  8,075
+
+  Mortgage Interest (Form 1098):               $114,034
+    - 27 Cormorant Circle mortgages
+    - 7 Briarwood Dr mortgage
+    - Primary residence mortgage
+
+  TOTAL ITEMIZED DEDUCTIONS:                   $122,109
+
+Note: All mortgage interest reported on Forms 1098 from lending institutions.
+Copies enclosed.
+
+================================================================================
+5. SELF-EMPLOYMENT TAX — SCHEDULE SE
+================================================================================
+
+  Net Schedule C Income:            $ 81,379
+  SE Earnings (x 92.35%):          $ 75,154
+  Social Security Tax (x 12.4%):   $  9,319
+  Medicare Tax (x 2.9%):           $  2,179
+  TOTAL SE TAX:                     $ 11,498
+  SE Tax Deduction (50%):           $  5,749
+
+================================================================================
+6. QUALIFIED BUSINESS INCOME DEDUCTION — FORM 8995
+================================================================================
+
+  Schedule C (Housecleaning):       $ 75,630
+  Schedule E — 27 Cormorant Cir:   $ 42,054
+  Schedule E — 7 Briarwood Dr:     $ 30,405
+  Total QBI:                        $148,089
+  20% of QBI:                       $ 29,618
+  Income Limitation (20% x $25,980):$  5,196
+  QBI DEDUCTION ALLOWED:            $  5,196
+
+================================================================================
+7. UNDERPAYMENT PENALTY — FORM 2210
+================================================================================
+
+An underpayment penalty of $620 was calculated and included on Line 38 of
+the return. No estimated tax payments were made during tax year 2024.
+For tax year 2025, quarterly estimated payments of $3,440 per quarter have
+been recommended ($13,760 total).
+
+================================================================================
+8. DOCUMENTS ENCLOSED
+================================================================================
+
+  [X] Copy of 2024 Form 1040 and all schedules (A, C, E, SE)
+  [X] Form 8995 — QBI Deduction
+  [X] Form 4562 — Depreciation Schedules (both properties)
+  [X] Schedule C expense receipts (business expenses)
+  [X] Vehicle mileage log — 2024 (13,800 business miles)
+  [X] Bank statements — gross receipts $249,000
+  [X] Labor cost records — $67,401
+  [X] Forms 1098 — Mortgage Interest (all properties)
+  [X] Property tax bills — 27 Cormorant Circle & 7 Briarwood Dr
+  [X] Lease agreements — both rental properties (365 days, no personal use)
+  [X] Insurance invoices — both properties
+  [X] Utility/Water/Sewer bills — both properties
+  [X] Solar panel invoices — both properties
+  [X] Condo fee statements — both properties
+  [X] Massachusetts state tax payment documentation ($7,372)
+
+================================================================================
+
+I trust this information fully addresses the items raised in Notice LTR566T.
+Should you require any additional documentation, please contact me directly or
+through my tax preparer listed below.
+
+I declare under penalty of perjury that the information provided herein is
+true, correct, and complete to the best of my knowledge and belief.
+
+Sincerely,
+
+_________________________________        Date: ________________
+Eliana Machado de Almeida
+SSN: XXX-XX-XXXX
+Address: PO Box 1467, Edgartown, MA 02539
+Phone: (401) 633-5598
+Email: elly_usa@hotmail.com
+
+
+Prepared by:
+Isabel Raimundo
+Advance Tax Servs Accountants Inc
+4 Mount Royal Ave Ste 4 110 F, Marlborough, MA 01752
+Phone: (781) 759-2202
+EIN: 88-0523842
+
+================================================================================
+END OF RESPONSE
+================================================================================
