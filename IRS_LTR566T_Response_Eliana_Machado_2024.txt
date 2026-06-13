@@ -5,7 +5,7 @@ RESPONSE TO IRS NOTICE LTR566T
 Date: June 13, 2026
 
 Internal Revenue Service
-P.O. Box 30901, AMC 8236
+P.O. Box 309011, AMC 8236
 Memphis, TN 38130-0911
 
 --------------------------------------------------------------------------------
@@ -14,215 +14,125 @@ Re:     Response to LTR566T — Notice Date: May 18, 2026
         SSN:        697-75-6336
         Tax Year:   2024
         Notice:     LTR566T
+        Project Code: 0417
 --------------------------------------------------------------------------------
 
 Dear IRS Examiner,
 
 I, Eliana Machado de Almeida, am writing in response to the LTR566T dated
-May 18, 2026, regarding my 2024 Federal Income Tax Return (Form 1040).
+May 18, 2026, regarding my 2024 Federal Income Tax Return (Form 1040),
+electronically filed on September 26, 2025
+(Submission ID: XXXXXX2025269pe21o4g).
 
-My return was electronically filed on September 26, 2025, and accepted by the
-IRS on the same date (Submission ID: XXXXXX2025269pe21o4g).
+I understand that the IRS is reviewing two items on my return:
+  (1) Schedule A — Home Mortgage Interest (Form 1098)
+  (2) Form 8995 — Qualified Business Income (QBI) Deduction
 
-Below is a complete summary of my 2024 return with supporting information.
-
-================================================================================
-1. FILING STATUS & RETURN SUMMARY
-================================================================================
-
-  Filing Status:                      Single
-  Total Income (Schedule 1):          $153,838
-  Adjusted Gross Income:              $148,089
-  Itemized Deductions (Schedule A):   $122,109
-  QBI Deduction (Form 8995):          $  5,196
-  Taxable Income:                     $ 20,784
-  Income Tax (Line 16):               $  2,261
-  Self-Employment Tax (Schedule SE):  $ 11,498
-  Total Tax:                          $ 13,759
-  Balance Due:                        $ 14,379
+Below I address each item with supporting documentation.
 
 ================================================================================
-2. BUSINESS INCOME — SCHEDULE C
+ITEM 1 — SCHEDULE A: HOME MORTGAGE INTEREST
 ================================================================================
 
-Business: Housecleaning Service (NAICS 561720)
-Name:     Eliana Machado de Almeida
-Address:  PO Box 1467, Edgartown, MA 02539
-Method:   Cash basis
+My primary residence is located at:
+  4 Lauras Way, Edgartown, MA 02539
 
-  Gross Receipts:                     $249,000
-  Cost of Goods Sold:                 $135,973
-    - Purchases (supplies/materials):   $68,572
-    - Cost of Labor:                    $67,401
-  Gross Profit:                       $113,027
+During tax year 2024, two lenders reported mortgage interest for this property:
 
-  Business Expenses:
-    Car & Truck (13,800 mi @ $0.67):  $  9,246
-    Insurance:                         $  1,294
-    Office Expenses:                   $ 14,584
-      - Bank Charges:          $75
-      - Internet:           $2,967
-      - Telephone:            $761
-      - Office Supplies:    $6,031
-      - Shipping:             $150
-      - Professional Fees:  $4,600
-    Supplies:                          $  6,031
-    Deductible Meals:                  $    493
-  Total Expenses:                      $ 31,648
+  Lender 1: AmWest Funding Corp (originated 10/20/2023)
+    Box 1 — Interest paid:              $ 95,134.47
+    Box 2 — Outstanding principal:      $1,039,488.45
 
-  NET PROFIT (Schedule C, Line 31):   $ 81,379
+  Lender 2: Radius Financial Group Inc. (originated 11/13/2024)
+    Box 1 — Interest paid:              $  1,869.86
+    Box 2 — Outstanding principal:      $  840,000.00
 
-Vehicle: Van, placed in service 01/01/2022
-  Total miles driven 2024:  16,400
-  Business miles:           13,800 (84.15%)
-  Other miles:               2,600
+  Total interest from Forms 1098 (primary residence):  $ 97,004.33
 
-Supporting documents enclosed:
-  - Bank statements showing gross receipts of $249,000
-  - Mileage log (2024)
-  - Receipts for all business expenses
-  - Labor cost records
+TCJA LOAN LIMIT CALCULATION (Form 14900):
 
-================================================================================
-3. RENTAL INCOME — SCHEDULE E
-================================================================================
+Because both loans were originated after December 15, 2017, the deductible
+home mortgage interest is subject to the $750,000 qualified loan limit under
+IRC Section 163(h)(3)(F).
 
-PROPERTY A: 27 Cormorant Circle, Edgartown, MA 02539
-  Type:               Single Family Residence
-  Purchased:          05/23/2005
-  Cost Basis:         $1,410,200
-  Fair Rental Days:   365 | Personal Use Days: 0
+Applying the weighted-average balance method per IRS Publication 936:
 
-  Income:
-    Rents Received:               $146,624
+  AmWest (319 days in 2024):    $1,040,000 x (319/366) = $906,449
+  Radius  ( 47 days in 2024):   $  840,000 x ( 47/366) = $107,869
+  Weighted average balance (Line 7):                     $972,642
 
-  Expenses:
-    Insurance:                    $  3,454
-    Mortgage Interest:            $ 33,397
-      (Two mortgages: $16,880 + $16,517)
-    Property Taxes:               $  2,885
-    Depreciation (27.5 yrs SL):   $ 51,275
-    Other Expenses:               $ 13,559
-      - Condo Fee:       $  400
-      - Solar Panels:    $2,750
-      - Water/Sewer:    $10,409
-  Total Expenses:                 $104,570
+  Qualified loan limit (Line 11):                        $750,000
+  Limitation ratio (Line 14):   $750,000 / $972,642  =    0.771
 
-  NET INCOME (Property A):        $ 42,054
+  Deductible home mortgage interest (Line 15):
+    $97,004.33 x 0.771 =                               $ 74,790.34
 
-----------------------------------------
+  Non-deductible portion (Line 16):                    $ 22,213.99
 
-PROPERTY B: 7 Briarwood Dr, Edgartown, MA 02539
-  Type:               Multi-Family Residence
-  Purchased:          03/09/2017
-  Cost Basis:         $733,600
-  Fair Rental Days:   365 | Personal Use Days: 0
+The completed Form 14900 is enclosed with this response.
 
-  Income:
-    Rents Received:               $ 90,000
+RENTAL PROPERTY MORTGAGE INTEREST (Schedule E):
 
-  Expenses:
-    Insurance:                    $  3,503
-    Mortgage Interest:            $ 14,292
-    Property Taxes:               $  2,513
-    Depreciation (27.5 yrs SL):   $ 26,674
-    Other Expenses:               $ 12,613
-      - Solar Panels:    $3,803
-      - Water/Sewer:     $8,060
-      - Condo Fee:       $  750
-  Total Expenses:                 $ 59,595
+I also own two rental properties with separate mortgage interest, which are
+reported exclusively on Schedule E and are NOT included in Schedule A:
 
-  NET INCOME (Property B):        $ 30,405
+  27 Cormorant Circle, Edgartown, MA — Dovenmuehle Mortgage:
+    Mortgage interest reported on Schedule E:           $ 33,397
+    (Two mortgages: $16,880 + $16,517)
 
-----------------------------------------
+  7 Briarwood Dr, Edgartown, MA — Dovenmuehle Mortgage:
+    Mortgage interest reported on Schedule E:           $ 14,292
 
-  TOTAL SCHEDULE E NET INCOME:    $ 72,459
+There is no double-counting of rental mortgage interest on Schedule A.
 
-Supporting documents enclosed:
-  - Lease agreements for both properties (365 days rental, no personal use)
-  - Forms 1098 — Mortgage Interest Statements (both properties)
-  - Property tax bills — 27 Cormorant Circle & 7 Briarwood Dr
-  - Insurance invoices (both properties)
-  - Depreciation schedules (Form 4562)
-  - Solar panel and utility invoices
-  - Condo fee statements
+CORRECTED SCHEDULE A — HOME MORTGAGE INTEREST:
+
+  Home mortgage interest per Form 14900 (deductible):  $ 74,790
+  (Reduced from $114,034 as filed)
+
+I acknowledge and accept the adjustment to the deductible home mortgage
+interest as calculated on the enclosed Form 14900.
+
+Documents enclosed for Item 1:
+  [X] Form 14900 — Worksheet for Qualified Loan Limit (completed)
+  [X] Form 1098 — AmWest Funding Corp (4 Lauras Way, primary residence)
+  [X] Form 1098 — Radius Financial Group Inc. (4 Lauras Way, primary residence)
+  [X] Form 1098 — Dovenmuehle Mortgage (27 Cormorant Circle — Schedule E only)
+  [X] Form 1098 — Dovenmuehle Mortgage (7 Briarwood Dr — Schedule E only)
 
 ================================================================================
-4. ITEMIZED DEDUCTIONS — SCHEDULE A
+ITEM 2 — FORM 8995: QUALIFIED BUSINESS INCOME (QBI) DEDUCTION
 ================================================================================
 
-  State & Local Income Taxes (MA 2023 paid):  $  5,424
-  State & Local Real Estate Taxes:             $  2,651
-  SALT Subtotal:                    $8,075
-  SALT Cap (limited to):                       $  8,075
+The QBI deduction of $5,196 claimed on my return was calculated as follows:
 
-  Mortgage Interest (Form 1098):               $114,034
-    - 27 Cormorant Circle mortgages
-    - 7 Briarwood Dr mortgage
-    - Primary residence mortgage
+  QBI Components:
+    Schedule C — Housecleaning Service:    $ 75,630
+    Schedule E — 27 Cormorant Circle:      $ 42,054
+    Schedule E — 7 Briarwood Dr:           $ 30,405
+    Total QBI:                             $148,089
 
-  TOTAL ITEMIZED DEDUCTIONS:                   $122,109
+  Standard QBI deduction (20% x $148,089): $ 29,618
 
-Note: All mortgage interest reported on Forms 1098 from lending institutions.
-Copies enclosed.
+  Income Limitation:
+    Taxable income before QBI deduction:   $ 25,980
+    20% of taxable income:                 $  5,196
 
-================================================================================
-5. SELF-EMPLOYMENT TAX — SCHEDULE SE
-================================================================================
+  QBI DEDUCTION ALLOWED (lesser amount):  $  5,196
 
-  Net Schedule C Income:            $ 81,379
-  SE Earnings (x 92.35%):          $ 75,154
-  Social Security Tax (x 12.4%):   $  9,319
-  Medicare Tax (x 2.9%):           $  2,179
-  TOTAL SE TAX:                     $ 11,498
-  SE Tax Deduction (50%):           $  5,749
+The deduction is correctly limited to $5,196 by the taxable income limitation
+under IRC Section 199A(a). This deduction was calculated correctly as filed.
 
-================================================================================
-6. QUALIFIED BUSINESS INCOME DEDUCTION — FORM 8995
-================================================================================
-
-  Schedule C (Housecleaning):       $ 75,630
-  Schedule E — 27 Cormorant Cir:   $ 42,054
-  Schedule E — 7 Briarwood Dr:     $ 30,405
-  Total QBI:                        $148,089
-  20% of QBI:                       $ 29,618
-  Income Limitation (20% x $25,980):$  5,196
-  QBI DEDUCTION ALLOWED:            $  5,196
-
-================================================================================
-7. UNDERPAYMENT PENALTY — FORM 2210
-================================================================================
-
-An underpayment penalty of $620 was calculated and included on Line 38 of
-the return. No estimated tax payments were made during tax year 2024.
-For tax year 2025, quarterly estimated payments of $3,440 per quarter have
-been recommended ($13,760 total).
-
-================================================================================
-8. DOCUMENTS ENCLOSED
-================================================================================
-
-  [X] Copy of 2024 Form 1040 and all schedules (A, C, E, SE)
-  [X] Form 8995 — QBI Deduction
-  [X] Form 4562 — Depreciation Schedules (both properties)
-  [X] Schedule C expense receipts (business expenses)
-  [X] Vehicle mileage log — 2024 (13,800 business miles)
-  [X] Bank statements — gross receipts $249,000
-  [X] Labor cost records — $67,401
-  [X] Forms 1098 — Mortgage Interest (all properties)
-  [X] Property tax bills — 27 Cormorant Circle & 7 Briarwood Dr
-  [X] Lease agreements — both rental properties (365 days, no personal use)
-  [X] Insurance invoices — both properties
-  [X] Utility/Water/Sewer bills — both properties
-  [X] Solar panel invoices — both properties
-  [X] Condo fee statements — both properties
-  [X] Massachusetts state tax payment documentation ($7,372)
+Documents enclosed for Item 2:
+  [X] Form 8995 — QBI Deduction Worksheet
+  [X] Schedule C — Housecleaning Service net income
+  [X] Schedule E — Rental income summary (both properties)
 
 ================================================================================
 
-I trust this information fully addresses the items raised in Notice LTR566T.
-Should you require any additional documentation, please contact me directly or
-through my tax preparer listed below.
+I trust this response fully addresses the items raised in Notice LTR566T.
+Should you require additional information, please contact me at the address
+or phone number below.
 
 I declare under penalty of perjury that the information provided herein is
 true, correct, and complete to the best of my knowledge and belief.
@@ -235,7 +145,6 @@ SSN: 697-75-6336
 Address: PO Box 1467, Edgartown, MA 02539
 Phone: (401) 633-5598
 Email: elly_usa@hotmail.com
-
 
 ================================================================================
 END OF RESPONSE
