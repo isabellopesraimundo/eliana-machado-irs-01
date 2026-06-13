@@ -1,141 +1,50 @@
-================================================================================
-RESPONSE TO IRS NOTICE LTR566T
-================================================================================
-
 Date: June 13, 2026
 
 Internal Revenue Service
 P.O. Box 309011, AMC 8236
 Memphis, TN 38130-0911
 
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 Re:     Response to LTR566T — Notice Date: May 18, 2026
         Taxpayer:   Eliana Machado de Almeida
         SSN:        697-75-6336
         Tax Year:   2024
-        Notice:     LTR566T
         Project Code: 0417
---------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 Dear IRS Examiner,
 
-I, Eliana Machado de Almeida, am writing in response to the LTR566T dated
-May 18, 2026, regarding my 2024 Federal Income Tax Return (Form 1040),
-electronically filed on September 26, 2025
-(Submission ID: XXXXXX2025269pe21o4g).
+I am writing in response to Notice LTR566T dated May 18, 2026, regarding
+my 2024 Federal Income Tax Return.
 
-I understand that the IRS is reviewing two items on my return:
-  (1) Schedule A — Home Mortgage Interest (Form 1098)
-  (2) Form 8995 — Qualified Business Income (QBI) Deduction
+In response to the request for documentation supporting my home mortgage
+interest deduction (Schedule A), I have completed the enclosed Form 14900
+— Worksheet for Qualified Loan Limit and Deductible Home Mortgage
+Interest (Exhibit A).
 
-Below I address each item with supporting documentation.
+As shown on the enclosed Form 14900, my two home mortgage loans
+(4 Lauras Way, Edgartown, MA 02539) were both originated after
+December 15, 2017, and are subject to the $750,000 qualified loan limit
+under IRC Section 163(h)(3)(F).
 
-================================================================================
-ITEM 1 — SCHEDULE A: HOME MORTGAGE INTEREST
-================================================================================
+The corrected deductible home mortgage interest for tax year 2024 is
+$74,790.34, as calculated on Form 14900 (Line 15).
 
-My primary residence is located at:
-  4 Lauras Way, Edgartown, MA 02539
+The following documents are enclosed:
 
-During tax year 2024, two lenders reported mortgage interest for this property:
+  Exhibit A  — Form 14900 (Worksheet for Qualified Loan Limit,
+                completed for tax year 2024)
+  Exhibit B  — Form 1098, AmWest Funding Corp
+                (4 Lauras Way — interest paid: $95,134.47)
+  Exhibit C  — Form 1098, Radius Financial Group Inc.
+                (4 Lauras Way — interest paid: $1,869.86)
+  Exhibit D  — Form 1098, Dovenmuehle Mortgage
+                (27 Cormorant Circle — Schedule E rental property)
+  Exhibit E  — Form 1098, Dovenmuehle Mortgage
+                (7 Briarwood Dr — Schedule E rental property)
 
-  Lender 1: AmWest Funding Corp (originated 10/20/2023)
-    Box 1 — Interest paid:              $ 95,134.47
-    Box 2 — Outstanding principal:      $1,039,488.45
-
-  Lender 2: Radius Financial Group Inc. (originated 11/13/2024)
-    Box 1 — Interest paid:              $  1,869.86
-    Box 2 — Outstanding principal:      $  840,000.00
-
-  Total interest from Forms 1098 (primary residence):  $ 97,004.33
-
-TCJA LOAN LIMIT CALCULATION (Form 14900):
-
-Because both loans were originated after December 15, 2017, the deductible
-home mortgage interest is subject to the $750,000 qualified loan limit under
-IRC Section 163(h)(3)(F).
-
-Applying the weighted-average balance method per IRS Publication 936:
-
-  AmWest (319 days in 2024):    $1,040,000 x (319/366) = $906,449
-  Radius  ( 47 days in 2024):   $  840,000 x ( 47/366) = $107,869
-  Weighted average balance (Line 7):                     $972,642
-
-  Qualified loan limit (Line 11):                        $750,000
-  Limitation ratio (Line 14):   $750,000 / $972,642  =    0.771
-
-  Deductible home mortgage interest (Line 15):
-    $97,004.33 x 0.771 =                               $ 74,790.34
-
-  Non-deductible portion (Line 16):                    $ 22,213.99
-
-The completed Form 14900 is enclosed with this response.
-
-RENTAL PROPERTY MORTGAGE INTEREST (Schedule E):
-
-I also own two rental properties with separate mortgage interest, which are
-reported exclusively on Schedule E and are NOT included in Schedule A:
-
-  27 Cormorant Circle, Edgartown, MA — Dovenmuehle Mortgage:
-    Mortgage interest reported on Schedule E:           $ 33,397
-    (Two mortgages: $16,880 + $16,517)
-
-  7 Briarwood Dr, Edgartown, MA — Dovenmuehle Mortgage:
-    Mortgage interest reported on Schedule E:           $ 14,292
-
-There is no double-counting of rental mortgage interest on Schedule A.
-
-CORRECTED SCHEDULE A — HOME MORTGAGE INTEREST:
-
-  Home mortgage interest per Form 14900 (deductible):  $ 74,790
-  (Reduced from $114,034 as filed)
-
-I acknowledge and accept the adjustment to the deductible home mortgage
-interest as calculated on the enclosed Form 14900.
-
-Documents enclosed for Item 1:
-  [X] Form 14900 — Worksheet for Qualified Loan Limit (completed)
-  [X] Form 1098 — AmWest Funding Corp (4 Lauras Way, primary residence)
-  [X] Form 1098 — Radius Financial Group Inc. (4 Lauras Way, primary residence)
-  [X] Form 1098 — Dovenmuehle Mortgage (27 Cormorant Circle — Schedule E only)
-  [X] Form 1098 — Dovenmuehle Mortgage (7 Briarwood Dr — Schedule E only)
-
-================================================================================
-ITEM 2 — FORM 8995: QUALIFIED BUSINESS INCOME (QBI) DEDUCTION
-================================================================================
-
-The QBI deduction of $5,196 claimed on my return was calculated as follows:
-
-  QBI Components:
-    Schedule C — Housecleaning Service:    $ 75,630
-    Schedule E — 27 Cormorant Circle:      $ 42,054
-    Schedule E — 7 Briarwood Dr:           $ 30,405
-    Total QBI:                             $148,089
-
-  Standard QBI deduction (20% x $148,089): $ 29,618
-
-  Income Limitation:
-    Taxable income before QBI deduction:   $ 25,980
-    20% of taxable income:                 $  5,196
-
-  QBI DEDUCTION ALLOWED (lesser amount):  $  5,196
-
-The deduction is correctly limited to $5,196 by the taxable income limitation
-under IRC Section 199A(a). This deduction was calculated correctly as filed.
-
-Documents enclosed for Item 2:
-  [X] Form 8995 — QBI Deduction Worksheet
-  [X] Schedule C — Housecleaning Service net income
-  [X] Schedule E — Rental income summary (both properties)
-
-================================================================================
-
-I trust this response fully addresses the items raised in Notice LTR566T.
-Should you require additional information, please contact me at the address
-or phone number below.
-
-I declare under penalty of perjury that the information provided herein is
-true, correct, and complete to the best of my knowledge and belief.
+I declare under penalty of perjury that the information provided herein
+is true, correct, and complete to the best of my knowledge and belief.
 
 Sincerely,
 
@@ -145,7 +54,3 @@ SSN: 697-75-6336
 Address: PO Box 1467, Edgartown, MA 02539
 Phone: (401) 633-5598
 Email: elly_usa@hotmail.com
-
-================================================================================
-END OF RESPONSE
-================================================================================
