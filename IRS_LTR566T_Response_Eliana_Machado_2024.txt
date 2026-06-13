@@ -2,12 +2,6 @@
 RESPONSE TO IRS NOTICE LTR566T
 ================================================================================
 
-Advance Tax Servs Accountants Inc
-4 Mount Royal Ave Ste 4 110 F
-Marlborough, MA 01752
-Phone: (781) 759-2202
-Email: isabel@advancetaxservices.accountants
-
 Date: June 13, 2026
 
 Internal Revenue Service
@@ -27,9 +21,7 @@ I, Eliana Machado de Almeida, am writing in response to the LTR566T dated
 May 18, 2026, regarding my 2024 Federal Income Tax Return (Form 1040).
 
 My return was electronically filed on September 26, 2025, and accepted by the
-IRS on the same date (Submission ID: XXXXXX2025269pe21o4g). The return was
-prepared by Isabel Raimundo, Advance Tax Servs Accountants Inc
-(PTIN: XXXXXXXXX / EIN: 88-0523842).
+IRS on the same date (Submission ID: XXXXXX2025269pe21o4g).
 
 Below is a complete summary of my 2024 return with supporting information.
 
@@ -243,13 +235,6 @@ Address: PO Box 1467, Edgartown, MA 02539
 Phone: (401) 633-5598
 Email: elly_usa@hotmail.com
 
-
-Prepared by:
-Isabel Raimundo
-Advance Tax Servs Accountants Inc
-4 Mount Royal Ave Ste 4 110 F, Marlborough, MA 01752
-Phone: (781) 759-2202
-EIN: 88-0523842
 
 ================================================================================
 END OF RESPONSE
