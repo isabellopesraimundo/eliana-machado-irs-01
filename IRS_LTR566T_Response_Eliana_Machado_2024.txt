@@ -1,56 +1,65 @@
-Date: June 13, 2026
+June 13, 2026
 
 Internal Revenue Service
 P.O. Box 309011, AMC 8236
 Memphis, TN 38130-0911
 
-------------------------------------------------------------------------
-Re:     Response to LTR566T — Notice Date: May 18, 2026
-        Taxpayer:   Eliana Machado de Almeida
-        SSN:        697-75-6336
-        Tax Year:   2024
+Re:     Response to Notice LTR566T
+        Notice Date:  May 18, 2026
+        Taxpayer:     Eliana Machado de Almeida
+        SSN:          697-75-6336
+        Tax Year:     2024
         Project Code: 0417
-------------------------------------------------------------------------
 
-Dear IRS Examiner,
+Dear IRS Examiner:
 
-I am writing in response to Notice LTR566T dated May 18, 2026, regarding
-my 2024 Federal Income Tax Return.
+I am writing in response to Notice LTR566T dated May 18, 2026,
+regarding my 2024 Federal Income Tax Return (Form 1040).
 
-In response to the request for documentation supporting my home mortgage
-interest deduction (Schedule A), I have completed the enclosed Form 14900
-— Worksheet for Qualified Loan Limit and Deductible Home Mortgage
-Interest (Exhibit A).
+In accordance with your request, I have completed and enclosed the
+Form 14900 — Worksheet for Qualified Loan Limit and Deductible Home
+Mortgage Interest for Tax Years Beginning After 2017, as requested in
+the notice.
 
-As shown on the enclosed Form 14900, my two home mortgage loans
-(4 Lauras Way, Edgartown, MA 02539) were both originated after
-December 15, 2017, and are subject to the $750,000 qualified loan limit
-under IRC Section 163(h)(3)(F).
+My home is located at 4 Lauras Way, Edgartown, MA 02539. During tax
+year 2024, mortgage interest was paid to two lenders on this property,
+as reflected on the enclosed Forms 1098. Both loans were originated
+after December 15, 2017.
 
-The corrected deductible home mortgage interest for tax year 2024 is
-$74,790.34, as calculated on Form 14900 (Line 15).
+As shown on the enclosed Form 14900, the deductible home mortgage
+interest for tax year 2024, after application of the $750,000
+qualified loan limit under IRC Section 163(h)(3)(F), is $74,790.34.
 
-The following documents are enclosed:
+I respectfully submit this response and the enclosed documentation as
+a complete reply to the items requested in Notice LTR566T. No
+additional issues are in dispute.
 
-  Exhibit A  — Form 14900 (Worksheet for Qualified Loan Limit,
-                completed for tax year 2024)
-  Exhibit B  — Form 1098, AmWest Funding Corp
-                (4 Lauras Way — interest paid: $95,134.47)
-  Exhibit C  — Form 1098, Radius Financial Group Inc.
-                (4 Lauras Way — interest paid: $1,869.86)
-  Exhibit D  — Form 1098, Dovenmuehle Mortgage
-                (27 Cormorant Circle — Schedule E rental property)
-  Exhibit E  — Form 1098, Dovenmuehle Mortgage
-                (7 Briarwood Dr — Schedule E rental property)
+Enclosed:
 
-I declare under penalty of perjury that the information provided herein
-is true, correct, and complete to the best of my knowledge and belief.
+  1. Form 14900 — Worksheet for Qualified Loan Limit and Deductible
+     Home Mortgage Interest (completed)
+
+  2. Form 1098 — AmWest Funding Corp
+     Property: 4 Lauras Way, Edgartown, MA 02539
+     Mortgage interest paid (Box 1):    $95,134.47
+     Outstanding principal (Box 2):     $1,039,488.45
+     Origination date (Box 3):          10/20/2023
+
+  3. Form 1098 — Radius Financial Group Inc.
+     Property: 4 Lauras Way, Edgartown, MA 02539
+     Mortgage interest paid (Box 1):    $1,869.86
+     Outstanding principal (Box 2):     $840,000.00
+     Origination date (Box 3):          11/13/2024
+
+I declare under penalty of perjury that the foregoing is true,
+correct, and complete to the best of my knowledge and belief.
 
 Sincerely,
 
-_________________________________        Date: ________________
+
+_________________________________     Date: _______________
 Eliana Machado de Almeida
 SSN: 697-75-6336
-Address: PO Box 1467, Edgartown, MA 02539
+PO Box 1467, Edgartown, MA 02539
 Phone: (401) 633-5598
 Email: elly_usa@hotmail.com
